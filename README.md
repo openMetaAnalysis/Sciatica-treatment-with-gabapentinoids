@@ -1,6 +1,6 @@
-Template: a data-only living systematic review
+Sciatica treatment with-gabapentinoids
 ============================================
-A data-only living systematic review
+A living systematic review
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
 
@@ -27,22 +27,24 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+None
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+1. Mathieson S, Maher CG, McLachlan AJ, Latimer J, Koes BW, Hancock MJ, Harris I, Day RO, Billot L, Pik J, Jan S, Lin CC. Trial of Pregabalin for Acute and Chronic Sciatica. N Engl J Med. 2017 Mar 23;376(12):1111-1120. doi: [10.1056/NEJMoa1614292](http://dx.doi.org/10.1056/NEJMoa1614292). PMID: [28328324](http://pubmed.gov/28328324).
+2. Atkinson JH, Slater MA, Capparelli EV, Patel SM, Wolfson T, Gamst A, Abramson IS, Wallace MS, Funk SD, Rutledge TR, Wetherell JL, Matthews SC, Zisook S, Garfin SR. A randomized controlled trial of gabapentin for chronic low back pain with and without a radiating component. Pain. 2016 Jul;157(7):1499-507. doi: [10.1097/j.pain.0000000000000554](http://dx.doi.org/10.1097/j.pain.0000000000000554). PMID: [26963844](http://pubmed.gov/26963844).
+3. Baron R, Freynhagen R, Tölle TR, Cloutier C, Leon T, Murphy TK, Phillips K; A0081007 Investigators.. The efficacy and safety of pregabalin in the treatment of neuropathic pain associated with chronic lumbosacral radiculopathy. Pain. 2010 Sep;150(3):420-7. doi: [10.1016/j.pain.2010.04.013](http://dx.doi.org/10.1016/j.pain.2010.04.013). PMID: [20493632](http://pubmed.gov/20493632).
+4. Yildirim K, Deniz O, Gureser G, Karatay S, Ugur M, Erdal A, Senel K. Gabapentin monotherapy in patients with chronic radiculopathy: the efficacy and impact on life quality. J Back Musculoskelet Rehabil. 2009;22(1):17-20. doi: [10.3233/BMR-2009-0210](http://dx.doi.org/10.3233/BMR-2009-0210). PMID: 2002335[24988555](http://pubmed.gov/24988555)9.
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+Not applicable
 
 #### Trial(s) excluded - selected list of important trial(s)
 
 #### Cited by
 This repository is cited by:
 
-1. WikiDoc contributors. Spinal stenosis medical therapy. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/This_topic. Accessed November 9, 2014. 
+1. WikiDoc contributors. Pending. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/This_topic. Accessed November 9, 2014. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
