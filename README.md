@@ -38,8 +38,13 @@ None
 #### Trial(s) included in the review above
 Not applicable
 
+#### Trial(s) undergoing review
+1. McCleane G. Does gabapentin have an analgesic effect on background, movement and referred pain? A randomised, double-blind, placebo controlled study. Pain Clinic 2001;13:103–7. doi: [10.1163/156856901753420945](http://dx.doi.org/10.1163/156856901753420945)
+2. Yildirim K, Siseciog˘lu M, Karatay S, Erdal A, Levent A, Ug˘ur M, Senel K. The effectiveness of gabapentin in patients with chronic radiculopathy. Pain Clinic 2003;15:213–8. [10.1163/156856903767650718](http://dx.doi.org/10.1163/156856903767650718)
+
 #### Trial(s) excluded - selected list of important trial(s)
 1. Yildirim K, Deniz O, Gureser G, Karatay S, Ugur M, Erdal A, Senel K. Gabapentin monotherapy in patients with chronic radiculopathy: the efficacy and impact on life quality. J Back Musculoskelet Rehabil. 2009;22(1):17-20. doi: [10.3233/BMR-2009-0210](http://dx.doi.org/10.3233/BMR-2009-0210). PMID: 2002335[24988555](http://pubmed.gov/24988555)9. **Before and after study**
+
 #### Cited by
 This repository is cited by:
 
