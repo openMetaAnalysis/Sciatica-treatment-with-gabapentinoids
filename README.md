@@ -11,7 +11,7 @@ A living systematic review
 * [Evidence search](../master/files/searching/evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../master/files/study-details/pico-table.md) (under construction)
+* [Description of studies (PICO table)](../master/files/study-details/pico-table.md)
 * [Risk of bias assessment](../master/files/study-details/risk-of-bias.md) (under construction)
 * [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
