@@ -2,7 +2,7 @@ Sciatica treatment with gabapentinoids
 ============================================
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 50%.
 
 [Keep current with this topic](../master/files/searching/Keep-up.md) (not available)
 
