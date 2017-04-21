@@ -14,7 +14,7 @@ A living systematic review
 * [Description of studies (PICO table)](../master/files/study-details/pico-table.md)
 * [Risk of bias assessment](../master/files/study-details/risk-of-bias.md) (under construction)
 * [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
-* [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (under construction)
+* [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconcilation-tables) (Not applicable as no prior meta-analysis)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://github.com/openMetaAnalysis/Sciatica-treatment-with-gabapentinoids/blob/master/files/forest-plots/Outcome-Primary.png "Principle results")
