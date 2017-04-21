@@ -19,9 +19,6 @@ A living systematic review
 The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://github.com/openMetaAnalysis/Sciatica-treatment-with-gabapentinoids/blob/master/files/forest-plots/Outcome-Primary.png "Principle results")
 
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](../master/files/metaregression) of secondary analyses may be available. 
-![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/Sciatica-treatment-with-gabapentinoids/master/files/metaregression/Outcome-Primary.png "Principle results for benefit]")
-
 References:
 ----------------------------------
 
@@ -32,7 +29,7 @@ None
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 1. Mathieson S, Maher CG, McLachlan AJ, Latimer J, Koes BW, Hancock MJ, Harris I, Day RO, Billot L, Pik J, Jan S, Lin CC. Trial of Pregabalin for Acute and Chronic Sciatica. N Engl J Med. 2017 Mar 23;376(12):1111-1120. doi: [10.1056/NEJMoa1614292](http://dx.doi.org/10.1056/NEJMoa1614292). PMID: [28328324](http://pubmed.gov/28328324).
-2. Atkinson JH, Slater MA, Capparelli EV, Patel SM, Wolfson T, Gamst A, Abramson IS, Wallace MS, Funk SD, Rutledge TR, Wetherell JL, Matthews SC, Zisook S, Garfin SR. A randomized controlled trial of gabapentin for chronic low back pain with and without a radiating component. Pain. 2016 Jul;157(7):1499-507. doi: [10.1097/j.pain.0000000000000554](http://dx.doi.org/10.1097/j.pain.0000000000000554). PMID: [26963844](http://pubmed.gov/26963844).
+2. Atkinson JH, Slater MA, Capparelli EV, Patel SM, Wolfson T, Gamst A, Abramson IS, Wallace MS, Funk SD, Rutledge TR, Wetherell JL, Matthews SC, Zisook S, Garfin SR. A randomized controlled trial of gabapentin for chronic low back pain with and without a radiating component. Pain. 2016 Jul;157(7):1499-507. doi: [10.1097/j.pain.0000000000000554](http://dx.doi.org/10.1097/j.pain.0000000000000554). PMID: [26963844](http://pubmed.gov/26963844). *Results only provided for all patients and not by subgroups. However, no differences in subgroups were reported.*
 3. Baron R, Freynhagen R, Tölle TR, Cloutier C, Leon T, Murphy TK, Phillips K; A0081007 Investigators.. The efficacy and safety of pregabalin in the treatment of neuropathic pain associated with chronic lumbosacral radiculopathy. Pain. 2010 Sep;150(3):420-7. doi: [10.1016/j.pain.2010.04.013](http://dx.doi.org/10.1016/j.pain.2010.04.013). PMID: [20493632](http://pubmed.gov/20493632).
 
 #### Trial(s) included in the review above
