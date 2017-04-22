@@ -13,15 +13,16 @@ Randomized trials of low back pain with radicular pain that compare a gabapentin
 (under construction)
 
 ### Boolean term searching
-back AND (sciatica OR radicul\* OR claudication) AND (pregabalin OR gabapentin) AND random\*
-* Retrieves all X articles in hand (100% sensitivity)
-* X total citations found (search results reviewed 2/27/2016; no additional studies found)
+(sciatica OR radicul\* OR radiat\* OR claudication) AND (pregabalin OR gabapentin) AND random\*
+[(sciatica OR radicul\* OR claudication) AND (pregabalin OR gabapentin) AND random\*] AND random\*](https://www.ncbi.nlm.nih.gov/pubmed/?term=(sciatica+OR+radicul*+OR+claudication)+AND+(pregabalin+OR+gabapentin)+AND+random*)
+* Retrieves 3 articles in hand (100% sensitivity). Did not capture Yildirim, 2003; however, this article is not on PubMed.
+* 43 total citations found (search results reviewed X/X/2017; X additional studies found)
 
 ### Vector searching ('Related citations' search)
 Seed articles: PMIDs [15570651,12809961,10743823,22970658,18557165,24183364,24526247](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=15570651%2012809961%2010743823%2022970658%2018557165%2024183364%2024526247)
 * [2395 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651,12809961,10743823,22970658,18557165,24183364,24526247)
 * X citations when above limited to [disease]
-  * [X additional articles found]((https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
+  * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
 
 ## ClinicalTrials.gov
 (under construction)
