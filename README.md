@@ -45,6 +45,7 @@ References:
 #### Trial(s) excluded - selected list of important trial(s)
 1. Yildirim K, Deniz O, Gureser G, Karatay S, Ugur M, Erdal A, Senel K. Gabapentin monotherapy in patients with chronic radiculopathy: the efficacy and impact on life quality. J Back Musculoskelet Rehabil. 2009;22(1):17-20. doi: [10.3233/BMR-2009-0210](http://dx.doi.org/10.3233/BMR-2009-0210). PMID: [20023359](http://pubmed.gov/20023359). *Before and after study*
 2. Malik KM, Nelson AM, Avram MJ, Robak SL, Benzon HT. Efficacy of Pregabalin in the Treatment of Radicular Pain: Results of a Controlled Trial. Anesth Pain Med. 2015 Aug 22;5(4):e28110. doi: [10.5812/aapm.28110](http://dx.doi.org/10.5812/aapm.28110). PMID: [26478867](http://pubmed.gov/26478867) *Only half of patients had lumbar radiculopathy.*
+3. Saldaña MT, Navarro A, Pérez C, Masramón X, Rejas J. Patient-reported-outcomes in subjects with painful lumbar or cervical radiculopathy treated with pregabalin: evidence from medical practice in primary care settings. Rheumatol Int. 2010 Jun;30(8):1005-15. doi: 10.1007/s00296-009-1086-1. PMID: [19798503](http://pubmed.gov/19798503). *Cannot determing results for patients with lmbar radiculopathy.*
 
 #### Cited by
 This repository is cited by:
