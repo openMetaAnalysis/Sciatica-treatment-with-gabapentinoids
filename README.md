@@ -38,13 +38,15 @@ Not applicable
 
 #### Trial(s) undergoing review
 1. McCleane G. Does gabapentin have an analgesic effect on background, movement and referred pain? A randomised, double-blind, placebo controlled study. Pain Clinic 2001;13:103–7. doi: [10.1163/156856901753420945](http://dx.doi.org/10.1163/156856901753420945)
+2. Kim HJ, Kim JH, Park YS, Suk KS, Lee JH, Park MS, Moon SH. Comparative study of the efficacy of limaprost and pregabalin as single agents and in combination for the treatment of lumbar spinal stenosis: a prospective, double-blind, randomized controlled non-inferiority trial. Spine J. 2016 Jun;16(6):756-63. doi: [10.1016/j.spinee.2016.02.049](http://dx.doi.org/10.1163/10.1016/j.spinee.2016.02.049). PMID: [27045252](http://pubmed.gov/27045252)
+3. Markman JD, Frazer ME, Rast SA, McDermott MP, Gewandter JS, Chowdhry AK, Czerniecka K, Pilcher WH, Simon LS, Dworkin RH. Double-blind, randomized, controlled, crossover trial of pregabalin for neurogenic claudication. Neurology. 2015 Jan 20;84(3):265-72. doi: [10.1212/WNL.0000000000001168](http://dx.doi.org/10.1212/WNL.0000000000001168). PMID: [25503625](http://pubmed.gov/25503625)
 
 #### Trial(s) excluded - selected list of important trial(s)
-1. Yildirim K, Deniz O, Gureser G, Karatay S, Ugur M, Erdal A, Senel K. Gabapentin monotherapy in patients with chronic radiculopathy: the efficacy and impact on life quality. J Back Musculoskelet Rehabil. 2009;22(1):17-20. doi: [10.3233/BMR-2009-0210](http://dx.doi.org/10.3233/BMR-2009-0210). PMID: 2002335[24988555](http://pubmed.gov/24988555)9. *Before and after study*
+1. Yildirim K, Deniz O, Gureser G, Karatay S, Ugur M, Erdal A, Senel K. Gabapentin monotherapy in patients with chronic radiculopathy: the efficacy and impact on life quality. J Back Musculoskelet Rehabil. 2009;22(1):17-20. doi: [10.3233/BMR-2009-0210](http://dx.doi.org/10.3233/BMR-2009-0210). PMID: [20023359](http://pubmed.gov/20023359). *Before and after study*
+2. Malik KM, Nelson AM, Avram MJ, Robak SL, Benzon HT. Efficacy of Pregabalin in the Treatment of Radicular Pain: Results of a Controlled Trial. Anesth Pain Med. 2015 Aug 22;5(4):e28110. doi: [10.5812/aapm.28110](http://dx.doi.org/10.5812/aapm.28110). PMID: [26478867](http://pubmed.gov/26478867) *Only half of patients had lumbar radiculopathy.*
 
 #### Cited by
 This repository is cited by:
-
 1. WikiDoc contributors. Pending. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/This_topic. Accessed November 9, 2014. 
 
 -------------------------------
