@@ -2,7 +2,7 @@ Sciatica treatment with gabapentinoids
 ============================================
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. The [standardized mean difference](http://openmetaanalysis.github.io/methods.html#SMD) between study groups was not significant. Heterogeneity of results as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 50%.
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. The [standardized mean difference](http://openmetaanalysis.github.io/methods.html#SMD) between study groups was not significant. Heterogeneity of results as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 50%. This review updates the previously published meta-analysis.(1)
 
 [Keep current with this topic](../master/files/searching/Keep-up.md) (not available)
 
@@ -24,17 +24,16 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-None
+1. Pinto RZ, Maher CG, Ferreira ML, Ferreira PH, Hancock M, Oliveira VC, McLachlan AJ, Koes B. Drugs for relief of pain in patients with sciatica: systematic review and meta-analysis. BMJ. 2012 Feb 13;344:e497. doi: [10.1136/bmj.e497](http://dx.doi.org/10.1136/bmj.e497). PMID: [22331277](http://pubmed.gov/22331277)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 1. Mathieson S, Maher CG, McLachlan AJ, Latimer J, Koes BW, Hancock MJ, Harris I, Day RO, Billot L, Pik J, Jan S, Lin CC. Trial of Pregabalin for Acute and Chronic Sciatica. N Engl J Med. 2017 Mar 23;376(12):1111-1120. doi: [10.1056/NEJMoa1614292](http://dx.doi.org/10.1056/NEJMoa1614292). PMID: [28328324](http://pubmed.gov/28328324).
 2. Atkinson JH, Slater MA, Capparelli EV, Patel SM, Wolfson T, Gamst A, Abramson IS, Wallace MS, Funk SD, Rutledge TR, Wetherell JL, Matthews SC, Zisook S, Garfin SR. A randomized controlled trial of gabapentin for chronic low back pain with and without a radiating component. Pain. 2016 Jul;157(7):1499-507. doi: [10.1097/j.pain.0000000000000554](http://dx.doi.org/10.1097/j.pain.0000000000000554). PMID: [26963844](http://pubmed.gov/26963844). *Results only provided for all patients and not by subgroups. However, no differences in subgroups were reported.*
 3. Baron R, Freynhagen R, Tölle TR, Cloutier C, Leon T, Murphy TK, Phillips K; A0081007 Investigators.. The efficacy and safety of pregabalin in the treatment of neuropathic pain associated with chronic lumbosacral radiculopathy. Pain. 2010 Sep;150(3):420-7. doi: [10.1016/j.pain.2010.04.013](http://dx.doi.org/10.1016/j.pain.2010.04.013). PMID: [20493632](http://pubmed.gov/20493632).
-4. Yildirim K, Siseciog˘lu M, Karatay S, Erdal A, Levent A, Ug˘ur M, Senel K. The effectiveness of gabapentin in patients with chronic radiculopathy. Pain Clinic 2003;15:213–8. [10.1163/156856903767650718](http://dx.doi.org/10.1163/156856903767650718)
 
 #### Trial(s) included in the review above
-Not applicable
+1. Yildirim K, Siseciog˘lu M, Karatay S, Erdal A, Levent A, Ug˘ur M, Senel K. The effectiveness of gabapentin in patients with chronic radiculopathy. Pain Clinic 2003;15:213–8. [10.1163/156856903767650718](http://dx.doi.org/10.1163/156856903767650718)
 
 #### Trial(s) undergoing review
 1. McCleane G. Does gabapentin have an analgesic effect on background, movement and referred pain? A randomised, double-blind, placebo controlled study. Pain Clinic 2001;13:103–7. doi: [10.1163/156856901753420945](http://dx.doi.org/10.1163/156856901753420945)
