@@ -13,8 +13,7 @@ Randomized trials of low back pain with radicular pain that compare a gabapentin
 (under construction)
 
 ### Boolean term searching
-(sciatica OR radicul\* OR radiat\* OR claudication) AND (pregabalin OR gabapentin) AND random\*
-[(sciatica OR radicul\* OR claudication) AND (pregabalin OR gabapentin) AND random\*] AND random\*](https://www.ncbi.nlm.nih.gov/pubmed/?term=(sciatica+OR+radicul*+OR+claudication)+AND+(pregabalin+OR+gabapentin)+AND+random*)
+[(sciatica OR radicul\* OR radiat\* OR claudication) AND (pregabalin OR gabapentin) AND random\*](https://www.ncbi.nlm.nih.gov/pubmed/?term=(sciatica+OR+radicul*+OR+claudication)+AND+(pregabalin+OR+gabapentin)+AND+random*)
 * Retrieves 3 articles in hand (100% sensitivity). Did not capture Yildirim, 2003; however, this article is not on PubMed.
 * 43 total citations found (search results reviewed X/X/2017; X additional studies found)
 
