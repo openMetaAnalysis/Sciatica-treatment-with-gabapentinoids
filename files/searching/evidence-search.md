@@ -7,7 +7,7 @@ Randomized trials of low back pain with radicular pain that compare a gabapentin
 ## Reconciliation tables
 (under construction)
 
-* [Comparison of included studies with prior systematic reviews](../../tree/master/reconciliation-tables/)
+* [Comparison of included studies with prior systematic reviews](../reconciliation-tables)
 
 ## PubMed
 (under construction)
