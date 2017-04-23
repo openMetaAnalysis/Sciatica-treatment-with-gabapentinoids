@@ -2,7 +2,7 @@ Sciatica treatment with gabapentinoids
 ============================================
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. The [standardized mean difference](http://openmetaanalysis.github.io/methods.html#SMD) between study groups was not significant. Heterogeneity of results as measured by I2 was '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 50%. This review updates the previously published meta-analysis.(1)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. The [standardized mean difference](http://openmetaanalysis.github.io/methods.html#SMD) between study groups was not significant. Heterogeneity of results as measured by I2 was '[substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 57% after adjusting for the year of publication. This review updates the previously published meta-analysis.(1)
 
 [Keep current with this topic](../master/files/searching/Keep-up.md) (not available)
 
@@ -42,13 +42,13 @@ References:
 1. McCleane G. Does gabapentin have an analgesic effect on background, movement and referred pain? A randomised, double-blind, placebo controlled study. Pain Clinic 2001;13:103–7. doi: [10.1163/156856901753420945](http://dx.doi.org/10.1163/156856901753420945)
 2. Kim HJ, Kim JH, Park YS, Suk KS, Lee JH, Park MS, Moon SH. Comparative study of the efficacy of limaprost and pregabalin as single agents and in combination for the treatment of lumbar spinal stenosis: a prospective, double-blind, randomized controlled non-inferiority trial. Spine J. 2016 Jun;16(6):756-63. doi: [10.1016/j.spinee.2016.02.049](http://dx.doi.org/10.1163/10.1016/j.spinee.2016.02.049). PMID: [27045252](http://pubmed.gov/27045252)
 3. Markman JD, Frazer ME, Rast SA, McDermott MP, Gewandter JS, Chowdhry AK, Czerniecka K, Pilcher WH, Simon LS, Dworkin RH. Double-blind, randomized, controlled, crossover trial of pregabalin for neurogenic claudication. Neurology. 2015 Jan 20;84(3):265-72. doi: [10.1212/WNL.0000000000001168](http://dx.doi.org/10.1212/WNL.0000000000001168). PMID: [25503625](http://pubmed.gov/25503625)
-4. Burke SM, Shorten GD. Perioperative pregabalin improves pain and functional outcomes 3 months after lumbar discectomy. Anesth Analg. 2010 Apr 1;110(4):1180-5. doi: [10.1213/ANE.0b013e3181cf949a](http://dx.doi.org/10.1213/ANE.0b013e3181cf949a). PMID: [20103545](http://pubmed.gov/20103545)
 
 #### Trial(s) excluded - selected list of important trial(s)
 1. Yildirim K, Deniz O, Gureser G, Karatay S, Ugur M, Erdal A, Senel K. Gabapentin monotherapy in patients with chronic radiculopathy: the efficacy and impact on life quality. J Back Musculoskelet Rehabil. 2009;22(1):17-20. doi: [10.3233/BMR-2009-0210](http://dx.doi.org/10.3233/BMR-2009-0210). PMID: [20023359](http://pubmed.gov/20023359). *Before and after study*
 2. Malik KM, Nelson AM, Avram MJ, Robak SL, Benzon HT. Efficacy of Pregabalin in the Treatment of Radicular Pain: Results of a Controlled Trial. Anesth Pain Med. 2015 Aug 22;5(4):e28110. doi: [10.5812/aapm.28110](http://dx.doi.org/10.5812/aapm.28110). PMID: [26478867](http://pubmed.gov/26478867) *Only half of patients had lumbar radiculopathy.*
 3. Saldaña MT, Navarro A, Pérez C, Masramón X, Rejas J. Patient-reported-outcomes in subjects with painful lumbar or cervical radiculopathy treated with pregabalin: evidence from medical practice in primary care settings. Rheumatol Int. 2010 Jun;30(8):1005-15. doi: 10.1007/s00296-009-1086-1. PMID: [19798503](http://pubmed.gov/19798503). *Cannot determing results for patients with lmbar radiculopathy.*
-4. Yaksi A, Ozgönenel L, Ozgönenel B. The efficiency of gabapentin therapy in patients with lumbar spinal stenosis. Spine (Phila Pa 1976). 2007 Apr 20;32(9):939-42. PMID: [17450066](http://pubmed.gov/17450066) *Not blinded.*
+4. Burke SM, Shorten GD. Perioperative pregabalin improves pain and functional outcomes 3 months after lumbar discectomy. Anesth Analg. 2010 Apr 1;110(4):1180-5. doi: [10.1213/ANE.0b013e3181cf949a](http://dx.doi.org/10.1213/ANE.0b013e3181cf949a). PMID: [20103545](http://pubmed.gov/20103545) *Short term therapy post-operatively.*
+5. Yaksi A, Ozgönenel L, Ozgönenel B. The efficiency of gabapentin therapy in patients with lumbar spinal stenosis. Spine (Phila Pa 1976). 2007 Apr 20;32(9):939-42. PMID: [17450066](http://pubmed.gov/17450066) *Not blinded.*
 
 #### Cited by
 This repository is cited by:
