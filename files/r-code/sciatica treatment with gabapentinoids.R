@@ -1,19 +1,41 @@
-library("metafor")
 library("meta")
+library("metafor")
 
 title ="Sciatica treatment with gabapentinoids"
 
 data <- read.table(textConnection('
-study                       Drug       Size effect.size  variance
-"Mathieson (PRECISE), 2017" Pregabalin 207   0.1828  0.019416
-"Atkinson, 2016"            Gabapentin  72  -0.2834  0.056285
-"Baron, 2010"               Pregabalin 217  -0.132   0.018477
+Study                 Year Drug       Size effect.size  variance
+"Mathieson (PRECISE)" 2017 Pregabalin 207   0.1828  0.019416
+Atkinson              2016 Gabapentin  72  -0.2834  0.056285
+Kim                   2016 Pregabalin 122   0.1034  0.0328
+Markman               2015 Pregabalin  30  -0.0634  0.134
+Baron                 2010 Pregabalin 217  -0.132   0.018477
+Yildirim              2003 Pregabalin  43  -1.5762  0.1224
+McCleane              2001 Gabapentin  65  -0.4997  0.064451
 '), header=TRUE)
 
+data <- data[order(data$Year),]
+data$Study <- paste(data$Study, data$Year, sep=", ")
+
 data$sd <- sqrt(data$variance)
-data$se <- data$sd#/sqrt(data$n)
+data$se <- data$sd
 
-# byvar=method, 
-meta <- metagen(data$effect.size, data$se, sm="SMD", comb.fixed = FALSE, studlab=data$study, title = title, data=data)
+# byvar = Drug, 
+meta <- metagen(data$effect.size, data$se, sm="SMD", hakn = TRUE, comb.fixed = FALSE, studlab=data$Study, title = title, data=data)
 
-forest(meta, leftcols=c("studlab","Drug","Size"), label.left="Favors intervention", label.right="Favors control", print.tau2=FALSE, data=meta, main = meta$title)
+forest(meta, leftcols=c("studlab","Drug","Size"), label.left="Favors intervention", label.right="Favors control", print.I2.ci = TRUE, print.tau2=FALSE, data=meta)
+
+meta2 <- metareg(meta, Year)
+# main = "Metaregression"
+bubble(meta2, lwd=2, col.line="blue", studlab = TRUE, xlim=c(2000,2020), xlab="Year of publication", ylab="Standardized mean difference")
+text(par("usr")[2],par("usr")[3]+2.25*strheight("A")+0.75*strheight("A"),cex=1.2,adj=c(1,0),paste("p (correlation) = ",sprintf(meta2$pval[2], fmt='%#.3f'), sep=""), font=1)
+text(par("usr")[2],par("usr")[3]+1.25*strheight("A"),cex=1.2,adj=c(1,0),paste("Residual I2 = ",sprintf(meta2$I2, fmt='%#.1f'),'%', sep=""), font=1)
+
+################
+# http://www.campbellcollaboration.org/escalc/html/EffectSizeCalculator-Home.php
+#Converting confidence interval to the standard deviation
+N= 29
+Standard.Error = 0.19
+Confidence.Interval.Width = 0.9
+Standard.Error = Confidence.Interval.Width/1.96^2
+(Standard.Deviation = Standard.Error * sqrt(N))
