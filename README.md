@@ -19,6 +19,9 @@ A living systematic review
 The forest plot for the primary outcomes are below. Additional [forest plots](../master/files/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://github.com/openMetaAnalysis/Sciatica-treatment-with-gabapentinoids/blob/master/files/forest-plots/Outcome-Primary.png "Principle results")
 
+The meta-regression for the primary outcomes are below. Additional [meta-regressions](../master/files/metaregression) of secondary analyses may be available. 
+![Principle results for benefit](https://raw.githubusercontent.com/openMetaAnalysis/template-for-data-only-review-of-interventions/master/files/metaregression/Outcome-Primary.png "Principle results for benefit]")
+
 References:
 ----------------------------------
 
