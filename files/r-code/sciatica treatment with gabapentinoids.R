@@ -1,5 +1,4 @@
 library("meta")
-library("metafor")
 
 title ="Sciatica treatment with gabapentinoids"
 
@@ -21,13 +20,13 @@ data$sd <- sqrt(data$variance)
 data$se <- data$sd
 
 # byvar = Drug, 
-meta <- metagen(data$effect.size, data$se, sm="SMD", hakn = TRUE, comb.fixed = FALSE, studlab=data$Study, title = title, data=data)
+meta <- metagen(data$effect.size, data$se, byvar = Drug, sm="SMD", hakn = TRUE, comb.fixed = FALSE, studlab=data$Study, title = title, data=data)
 
 forest(meta, leftcols=c("studlab","Drug","Size"), label.left="Favors intervention", label.right="Favors control", print.I2.ci = TRUE, print.tau2=FALSE, data=meta)
 
 meta2 <- metareg(meta, Year)
-# main = "Metaregression"
-bubble(meta2, lwd=2, col.line="blue", studlab = TRUE, xlim=c(2000,2020), xlab="Year of publication", ylab="Standardized mean difference")
+# main = "Metaregression of..."
+bubble(meta2, main="Metaregression of published trials", lwd=2, col.line="blue", studlab = TRUE, xlim=c(1997,2020), xlab="Year of publication", ylab="Standardized mean difference")
 text(par("usr")[2],par("usr")[3]+2.25*strheight("A")+0.75*strheight("A"),cex=1.2,adj=c(1,0),paste("p (correlation) = ",sprintf(meta2$pval[2], fmt='%#.3f'), sep=""), font=1)
 text(par("usr")[2],par("usr")[3]+1.25*strheight("A"),cex=1.2,adj=c(1,0),paste("Residual I2 = ",sprintf(meta2$I2, fmt='%#.1f'),'%', sep=""), font=1)
 
