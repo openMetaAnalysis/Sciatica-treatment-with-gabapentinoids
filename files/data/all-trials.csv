@@ -1,7 +1,5 @@
 Study,                          Year, PMID,experimental_events,experimental_total,control_events,control_total, Cofactor,
-Atkinson,                       2016, 26963844,?,?,?,?, Gabapentin,
-Baron (A0081007 Investigators), 2010, 20493632,?,?,?,?, Pregabalin,
-Mathieson (PRECISE),            2017, 28328324,?,?,?,?, Pregabalin,
+The data for this review is in the R-code file, ,,,,, ,
 ,,,,,,,,
 ,,,,,,,To make forest plot:,
 ,,,,,,,Click 'Raw' view of this file,
