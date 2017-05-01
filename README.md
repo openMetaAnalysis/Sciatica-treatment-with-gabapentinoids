@@ -43,6 +43,9 @@ References:
 
 #### Trial(s) undergoing review
 1. McCleane G. Does gabapentin have an analgesic effect on background, movement and referred pain? A randomised, double-blind, placebo controlled study. Pain Clinic 2001;13:103–7. doi: [10.1163/156856901753420945](http://dx.doi.org/10.1163/156856901753420945)
+2. Pota V, Barbarisi M, Sansone P, Moraci M, Pace MC, Passavanti MB, Aurilio C. Combination therapy with transdermal buprenorphine and pregabalin for chronic low back pain. Pain Manag. 2012 Jan;2(1):23-31. doi: [10.2217/pmt.11.71](http://dx.doi.org/10.2217/pmt.11.71). PMID: [24654615](http://pubmed.gov/24654615).
+3. Pirbudak L, Ciçek H, Işik M, Zer Y. The effect of tramadol and tramadol + gabapentin combination in patients with lumbar disc herniation after epidural steroid injection. Turk J Med Sci. 2015;45(6):1214-9. PMID: [26775373](http://pubmed.gov/26775373)
+4. Baron R, Martin-Mola E, Müller M, Dubois C, Falke D, Steigerwald I. Effectiveness and Safety of Tapentadol Prolonged Release (PR) Versus a Combination of Tapentadol PR and Pregabalin for the Management of Severe, Chronic Low Back Pain With a Neuropathic Component: A Randomized, Double-blind, Phase 3b Study. Pain Pract. 2015 Jun;15(5):455-70. doi: [10.1111/papr.12200](http://dx.doi.org/10.1111/papr.12200). PMID: [24738609](http://pubmed.gov/24738609)
 
 #### Trial(s) excluded - selected list of important trial(s)
 1. Yildirim K, Deniz O, Gureser G, Karatay S, Ugur M, Erdal A, Senel K. Gabapentin monotherapy in patients with chronic radiculopathy: the efficacy and impact on life quality. J Back Musculoskelet Rehabil. 2009;22(1):17-20. doi: [10.3233/BMR-2009-0210](http://dx.doi.org/10.3233/BMR-2009-0210). PMID: [20023359](http://pubmed.gov/20023359). *Before and after study*
