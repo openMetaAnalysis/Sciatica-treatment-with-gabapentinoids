@@ -12,7 +12,7 @@ A living systematic review
 
 **Results:** Details of the studies included are in the:
 * [Description of studies (PICO table)](../master/files/study-details/pico-table.md)
-* [Risk of bias assessment](../master/files/study-details/risk-of-bias.md) (under construction)
+* [Risk of bias assessment](../master/files/study-details/risk-of-bias.md)
 * [Forest plots](../master/files/forest-plots) ([source data](../../tree/master/files/data))
 * [Reconciliation of conclusions and trials included with prior meta-analyses](../master/files/reconciliation-tables)
 
