@@ -10,8 +10,8 @@ Based on [Cochrane Handbook](http://handbook.cochrane.org/chapter_8/table_8_5_d_
 | -------------------------------------|:---------|:---------|:--------------|:------------|:----------|:----------|:----------|
 |McCleane<br>2001<br>DOI [10.1163/156856901753420945](http://dx.doi.org/10.1163/156856901753420945) |Low risk   |Unclear risk as method not described|Low risk |Low risk |Unclear risk† |Unclear risk\*|Low risk|
 |Yildrim<br>2003<br>PMID [25503625](http://pubmed.gov/25503625)  |Low risk   |Unclear risk as method not described |Low risk |Low risk |Unclear risk† |Unclear risk\*| Low risk|
-|Baron<br>2010<br>PMID [25503625](http://pubmed.gov/25503625)    |High risk± |Low  risk |Low risk |Low risk |Low risk |Unclear risk\*| Low risk|
-|Baron<br>2015<br>PMID [24738609](http://pubmed.gov/24738609)    |High risk± |Unclear risk as method not described  |Low risk |Low risk |Low risk |Unclear risk\*| Low risk|
+|Baron<br>2010<br>PMID [25503625](http://pubmed.gov/25503625)    |High risk‡ |Low  risk |Low risk |Low risk |Low risk |Unclear risk\*| Low risk|
+|Baron<br>2015<br>PMID [24738609](http://pubmed.gov/24738609)    |High risk‡ |Unclear risk as method not described  |Low risk |Low risk |Low risk |Unclear risk\*| Low risk|
 |Markman<br>2015<br>PMID [25503625](http://pubmed.gov/25503625)<br>[NCT00638443](http://clinicaltrials.gov/show/NCT00638443)|Low risk |Low  risk |Low risk |Low risk |Low risk |Low risk| Unclear risk due to cross-over design and not reporting period or sequence effects|
 |Atkinson<br>2016<br>PMID [26963844](http://pubmed.gov/26963844)<br>[NCT00108550](http://clinicaltrials.gov/show/NCT00108550)|Low risk |Low  risk |Low risk |Low risk |Low risk |Low risk| Low risk|
 |Kim<br>2016<br>PMID [27045252](http://pubmed.gov/27045252)<br>[NCT01888536](http://clinicaltrials.gov/show/NCT01888536)|Low risk |Low  risk |Low risk |Low risk |Low risk |Low risk| Low risk|
@@ -20,6 +20,6 @@ Based on [Cochrane Handbook](http://handbook.cochrane.org/chapter_8/table_8_5_d_
 
 **Footnotes:**<br>
 \* Attrition bias is 'unclear risk" as Consort flow diagram not provided.<br>
-† Selective reporting bias is 'unclear risk" as no original protocol at a online trial registry.
-± Selection bias is 'high risk' due to a run-in phase prior to the trial.
+† Selective reporting bias is 'unclear risk" as no original protocol at a online trial registry.<br>
+‡ Selection bias is 'high risk' due to a run-in phase prior to the trial.
 
