@@ -1,31 +1,27 @@
 # Evidence search
-(under construction)
 
 ## Inclusion criteria
 Randomized trials of low back pain with radicular pain that compare a gabapentinoid to placebo.
 
 ## Reconciliation tables
-(under construction)
 
 * [Comparison of included studies with prior systematic reviews](../reconciliation-tables)
 
 ## PubMed
-(under construction)
 
 ### Boolean term searching
 [(sciatica OR radicul\* OR radiat\* OR claudication) AND (pregabalin OR gabapentin) AND random\*](https://www.ncbi.nlm.nih.gov/pubmed/?term=(sciatica+OR+radicul*+OR+claudication)+AND+(pregabalin+OR+gabapentin)+AND+random*)
 * Retrieves 3 articles in hand (100% sensitivity). Did not capture Yildirim, 2003; however, this article is not on PubMed.
-* 43 total citations found (search results reviewed X/X/2017; X additional studies found)
+* 43 total citations found (search results reviewed 5/1/2017)
+  * 1 additional studies found: Kim et al, PMID [27045252](https://pubmed.gov/27045252)
 
 ### Vector searching ('Related citations' search)
 Seed articles: PMIDs [15570651,12809961,10743823,22970658,18557165,24183364,24526247](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=15570651%2012809961%2010743823%2022970658%2018557165%2024183364%2024526247)
 * [2395 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651,12809961,10743823,22970658,18557165,24183364,24526247)
-* X citations when above limited to [disease]
-  * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
+* 35 citations when above limited to `pregabalin OR gabapentin`
+  * [3 additional articles found](https://pubmed.gov/24654615,26775373,24738609)
 
 ## ClinicalTrials.gov
-(under construction)
-
 (back OR lumbar OR sciatica OR radiculopathy OR claudication) AND interventional Studies AND (gabapentin OR pregabalin)
 * [37 citations](https://clinicaltrials.gov/ct2/results?term=back+OR+lumbar+OR+sciatica+OR+radiculopathy+OR+claudication&type=Intr&rslt=&recr=&age_v=&gndr=&cond=&intr=gabapentin+OR+pregabalin&titles=&outc=&spons=&lead=&id=&state1=&cntry1=&state2=&cntry2=&state3=&cntry3=&locn=&rcv_s=&rcv_e=&lup_s=&lup_e=)
   * [NCT01838044](https://clinicaltrials.gov/ct2/show/NCT01838044) included
