@@ -4,14 +4,15 @@ title ="Sciatica treatment with gabapentinoids"
 
 data <- read.table(textConnection('
 Study                 Year Drug       Size effect.size  variance
-"Mathieson (PRECISE)" 2017 Pregabalin 207   0.1828  0.019416
+McCleane              2001 Gabapentin  65  -0.4997  0.064451
+Yildirim              2003 Pregabalin  43  -1.5762  0.1224
+Baron                 2010 Pregabalin 217  -0.132   0.018477
+Baron                 2015 Pregabalin 288  -0.04    0.0128
+"Markman (LUSTOR)"    2015 Pregabalin  30  -0.0634  0.134
+NCT01838044           2016 Pregabalin 156  -0.0746  0.0222
 Atkinson              2016 Gabapentin  72  -0.2834  0.056285
 Kim                   2016 Pregabalin 122   0.1034  0.0328
-"Markman (LUSTOR)"    2015 Pregabalin  30  -0.0634  0.134
-Baron                 2010 Pregabalin 217  -0.132   0.018477
-Yildirim              2003 Pregabalin  43  -1.5762  0.1224
-McCleane              2001 Gabapentin  65  -0.4997  0.064451
-NCT01838044           2016 Pregabalin 156  -0.0746  0.0222
+"Mathieson (PRECISE)" 2017 Pregabalin 207   0.1828  0.019416
 '), header=TRUE)
 
 data <- data[order(data$Year),]
@@ -27,7 +28,8 @@ meta <- metagen(data$effect.size, data$se, byvar = Drug, sm="SMD", hakn = TRUE, 
 forest(meta, leftcols=c("studlab","Drug","Size"), label.left="Favors intervention", label.right="Favors control", print.I2.ci = TRUE, print.tau2=FALSE, data=meta)
 
 ## Metaregression
-data$Study[7] = "\n\nNCT01838044, 2016" #Lower the placement of the label on the bubble plot
+data$Study[4] = "Baron, 2015\n"
+data$Study[6] = "\n\nNCT01838044, 2016" #Lower the placement of the label on the bubble plot
 meta <- metagen(data$effect.size, data$se, byvar = Drug, sm="SMD", hakn = TRUE, comb.fixed = FALSE, studlab=data$Study, title = title, data=data)
 meta2 <- metareg(meta, Year)
 # main = "Metaregression of published trials"
