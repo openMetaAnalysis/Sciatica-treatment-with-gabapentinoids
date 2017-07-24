@@ -57,7 +57,8 @@ None
 
 #### Cited by
 This repository is cited by:
-1. WikiDoc contributors. Sciatica medical therapy. WikiDoc. April 23, 2017. Available at: http://www.wikidoc.org/index.php/Sciatica_medical_therapy. Accessed  April 23, 2017. 
+1. Al-Hihi E, Badgett RG. In moderate-to-severe sciatica, pregabalin did not reduce leg pain intensity or improve quality of life. Ann Intern Med. 2017 Jul 18;167(2):JC4. doi: 10.7326/ACPJC-2017-167-2-004. PMID: [28715826](http://pubmed.gov/28715826)
+2. WikiDoc contributors. Sciatica medical therapy. WikiDoc. April 23, 2017. Available at: http://www.wikidoc.org/index.php/Sciatica_medical_therapy. Accessed  April 23, 2017. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
